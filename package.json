@@ -1,0 +1,11 @@
+{
+  "name": "front-end-01",
+  "version": "1.0.0",
+  "description": "proyecto que incluye uso de apis, HTML y javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Pucheta",
+  "license": "ISC"
+}
