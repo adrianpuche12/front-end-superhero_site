@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+
+    .flex {
+        flex-direction: column;
+        margin: 0%;
+        align-content: center;
+    }
+
+    .img-heroe-all {
+        width: 300px;
+        text-align: center;
+    }
+
+    .img-heroe {
+        width: 300px;
+    }
+
+    .title-heroe {
+        font-size: xx-large;
+        width: 100%;
+    }
+
+    .description-heroe {
+        width: 90%;
+        margin: 0%;
+    }
+
+    .button-heroe {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+    }
+}

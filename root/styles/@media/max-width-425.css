@@ -1,0 +1,45 @@
+@media (max-width: 425px) {
+
+    .cont-gen {
+        flex-direction: column;
+    }
+
+    .img-heroe-all {
+        width: 300px;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .art {
+        width: 70%;
+        margin: auto;
+        padding: 5px 20px 5px 20px;
+    }
+
+    .ul-gift {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .description-heroe {
+        padding: 20px;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .title-gift {
+        margin-top: 50px;
+    }
+
+    .content-gift {
+        margin-top: 100px;
+        width: 425px;
+    }
+
+    .cont-footer {
+        margin-bottom: 0%;
+    }
+
+}

@@ -3,7 +3,7 @@ window.onload = function () {
 
     // ****************************************** LLamado gift BATMAN  ****************************************** 
 
-    fetch('https://api.giphy.com/v1/stickers/search?api_key=Azmm3FyGs9gLJ3SxTBqiMHh7pBV3SgZ2&q=batman&limit=25&offset=0&rating=g&lang=en')
+    fetch('https://api.giphy.com/v1/gifs/search?api_key=9cnrIt4sz2frueHbX8nj5ot5GqnOcNSV&q=batman')
 
         .then(function (respuesta) {
             return respuesta.json();
@@ -23,7 +23,7 @@ window.onload = function () {
 
     //****************************************** LLamado gift MUJER MARAVILLA  ******************************************
 
-    fetch('https://api.giphy.com/v1/stickers/search?api_key=Azmm3FyGs9gLJ3SxTBqiMHh7pBV3SgZ2&q=Mulher+Maravilha&limit=25&offset=0&rating=g&lang=en')
+    fetch('https://api.giphy.com/v1/gifs/search?api_key=9cnrIt4sz2frueHbX8nj5ot5GqnOcNSV&q=mujer+maravilla')
 
         .then(function (respuesta) {
             return respuesta.json();
@@ -43,7 +43,7 @@ window.onload = function () {
 
     // ****************************************** LLamado gift SUPERMAN  ******************************************
 
-    fetch('https://api.giphy.com/v1/stickers/search?api_key=Azmm3FyGs9gLJ3SxTBqiMHh7pBV3SgZ2&q=superman&limit=25&offset=0&rating=g&lang=en')
+    fetch('https://api.giphy.com/v1/gifs/search?api_key=9cnrIt4sz2frueHbX8nj5ot5GqnOcNSV&q=superman')
 
         .then(function (respuesta) {
             return respuesta.json();
@@ -63,7 +63,7 @@ window.onload = function () {
 
     // ****************************************** LLamado gift HARLEY QUINN  ******************************************
 
-    fetch('https://api.giphy.com/v1/stickers/search?api_key=Azmm3FyGs9gLJ3SxTBqiMHh7pBV3SgZ2&q=harley+quinn&limit=25&offset=0&rating=g&lang=en')
+    fetch('https://api.giphy.com/v1/gifs/search?api_key=9cnrIt4sz2frueHbX8nj5ot5GqnOcNSV&q=harley+qinn')
 
         .then(function (respuesta) {
             return respuesta.json();

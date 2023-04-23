@@ -1,0 +1,12 @@
+@media (min-width: 1024px) {
+    .description-heroe {
+        box-shadow: 5px 5px 0;
+        /* Sombra sin desenfoque */
+        box-shadow: 5px 5px 2px;
+        /* Sombra con ligero desenfoque */
+        box-shadow: 5px 5px 10px;
+        /* Sombra desenfocada */
+        box-shadow: 5px 5px 40px;
+        /* Sombra con un desenfoque casi disipado */
+    }
+}
