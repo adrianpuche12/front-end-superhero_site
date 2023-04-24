@@ -33,6 +33,31 @@ $ Desde la Home podra navebar a traves de las diferentes la paginas del sitio
 
 ```
 
-./images-readme/mobile-1.png
+## Galeria de imagenes:
 
-![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/home.png){width='100px'}
+Las siguientes imagenes le ayudaran a ves las principales vistas del proyecto.
+
+### Home
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/home.png)
+
+
+### Pagina Superheroe
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/m-m.png)
+
+
+### Pagina Superheroe
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/superman.png)
+
+
+### Vista Mobile
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/mobile-1.png)
+
+
+### Vista Mobile
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/mobile-2.png)
+
+
+### Vista Mobile
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/mobile-3.png)
+
+
