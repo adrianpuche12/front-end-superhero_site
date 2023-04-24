@@ -34,3 +34,5 @@ $ Desde la Home podra navebar a traves de las diferentes la paginas del sitio
 ```
 
 ./images-readme/mobile-1.png
+
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/home.png){width='100px'}
