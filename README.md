@@ -28,10 +28,9 @@ siga los siguientes pasos:
 
 ``` 
 $ Clonar el proyecto utilizando git clone https://github.com/adrianpuche12/front-end-01.git
-$ Excediendo al archivo Home.html
+$ Acceda al archivo Home.html
 $ Desde la Home podra navebar a traves de las diferentes la paginas del sitio
 
 ```
 
-
-![Algorithm schema](./images-readme/mobile-1.png)
+./images-readme/mobile-1.png
