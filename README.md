@@ -34,4 +34,4 @@ $ Desde la Home podra navebar a traves de las diferentes la paginas del sitio
 ```
 
 
-![Algorithm schema](/images-readme/mobile-1.png)
+![Algorithm schema](./images-readme/mobile-1.png)
