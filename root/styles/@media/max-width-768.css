@@ -1,9 +1,17 @@
 @media (max-width: 768px) {
 
-    .flex {
+    .art-heroe {
+        width: 100%;
+        display: flex;
         flex-direction: column;
-        margin: 0%;
+        justify-content: center;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
         align-content: center;
+        margin: 0%;
     }
 
     .img-heroe-all {
@@ -12,23 +20,48 @@
     }
 
     .img-heroe {
-        width: 300px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        margin: 0%;
     }
 
     .title-heroe {
         font-size: xx-large;
         width: 100%;
     }
+    
+    .title-gift {
+        margin-top: 50px;
+        font-size: xx-large;
+    }
 
     .description-heroe {
-        width: 90%;
+        width: 100%;
         margin: 0%;
     }
 
     .button-heroe {
-        width: 100%;
         display: flex;
         flex-direction: row;
-        align-self: center;
+        justify-content: center;
+        margin: 0%;
+    }
+
+    p {
+        text-align: justify
+    }
+
+    .ul-gift {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin: 2px;
+        padding: 0%;
+    }
+    .ul-gift li img {
+        width: 98%;
     }
 }
