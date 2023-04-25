@@ -38,43 +38,56 @@ $ Desde la Home podra navebar a traves de las diferentes la paginas del sitio
 Las siguientes imagenes le ayudaran a ves las principales vistas del proyecto.
 
 ```
-### Vista Mobile Dimensions Responseve 425x842
+Vista Mobile Dimensions Responseve 425x842
 
 ```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-425x842-(3).png)
 
+```
+Vista Mobile Dimensions Responseve 425x842
 
-### Vista Mobile Dimensions Responseve 425x842
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responseve-425x842.png)
 
+```
+Vista Mobile Dimensions Responseve 425x842
 
-### Vista Mobile Dimensions Responseve 425x842
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-425x842.png)
 
+```
+Vista Mobile Dimensions Responsive 768x842
 
-### Vista Mobile Dimensions Responsive 768x842
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-768x842-(2).png)
 
+```
+Vista Mobile Dimensions Responsive 768x842
 
-### Vista Mobile Dimensions Responsive 768x842
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-768x842-(3).png)
 
-
-### Vista Mobile Dimensions Responsive 768x842
+```
+Vista Mobile Dimensions Responsive 768x842
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-768x842-(4).png)
 
-
-### Vista Mobile Dimensions Responsive 768x842
+```
+Vista Mobile Dimensions Responsive 768x842
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-768x842.png)
 
-
-### Vista Mobile Dimensions Responsive 1024
+```
+Vista Mobile Dimensions Responsive 1024
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-1024-(2).png)
 
-
-### Vista Mobile Dimensions Responsive 1024
+```
+Vista Mobile Dimensions Responsive 1024
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-1024-(3).png)
 
-
-### Vista Mobile Dimensions Responsive 1024
+```
+Vista Mobile Dimensions Responsive 1024
+```
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-1024.png)
