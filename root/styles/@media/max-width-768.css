@@ -64,4 +64,19 @@
     .ul-gift li img {
         width: 98%;
     }
+
+    .section5{
+        flex-direction: column !important;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #Copyright {
+        padding-top: 50px;
+        align-self: center;
+    }
+
+    .form{
+        text-align: center;
+    }
 }

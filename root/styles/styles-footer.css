@@ -1,0 +1,222 @@
+.section4 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 224px;
+    background: #f3613c;
+}
+
+.cont-section4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    margin-left: 165px;
+}
+
+.cont-section4 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 96px;
+    font-family: "Be Vietnam";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.005em;
+    color: #ffffff;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+
+/* estilos footer*/
+.section5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+    background: #1e1e26;
+}
+
+.cont-art-redes {
+    width: 210px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#ico {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img-ico {
+    width: 20px;
+    height: 20px;
+}
+
+/*comienzo contenedor enlaces*/
+.social-media-container {
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0px;
+    height: 141.14px;
+}
+
+.social-media-container-one {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    width: 69px;
+    height: 128px;
+    flex-grow: 0;
+}
+
+.social-media-container-two {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 0px;
+    width: 105px;
+    height: 93px;
+    flex-grow: 0;
+}
+
+/*comienzo  formualario*/
+form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 380px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+#input-form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1px;
+    width: 201px;
+    height: 44px;
+    background: #FFFFFF;
+    border-radius: 50px;
+    flex-grow: 0;
+    margin: 0px 9px;
+    text-align: center;
+}
+
+#butt-form1 {
+    padding: 10px;
+    width: 63px;
+    height: 50px;
+   background-color: var(--primary_color);
+    border-radius: 50px;
+    flex-grow: 0;
+    margin: 0px;
+    color: #ffffff;
+}
+
+/*fin  formualario*/
+
+
+/*comienzo  derechos reservados*/
+#Copyright {
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    background: #1E1E26;
+    margin: 0%;
+}
+
+/*fin  derechos reservados*/
+
+a {
+    width: 100px;
+    height: 23px;
+    font-family: "Be Vietnam";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    flex-grow: 0;
+    margin: 12px 0px;
+    text-decoration: none;
+}
+
+#butt-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 63px;
+    height: 42px;
+    background: #F3603B;
+    border-radius: 50px;
+    flex-grow: 0;
+    margin: 0px 9px;
+}
+
+#butt-section6 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    position: static;
+    width: 120px;
+    height: 44px;
+    background: #ffffff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    order: 1;
+    flex-grow: 0;
+}
+
+.cont-butt {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.parr-Copyright {
+    margin: 0%;
+    width: 213.85px;
+    height: 19.85px;
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.5px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #8C8C94;
+    margin-bottom: 25px;
+}
+
+/*fin section principal*/

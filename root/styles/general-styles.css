@@ -1,3 +1,8 @@
+:root {
+  --primary_color: #fd0101;
+  --second_color: #cc0a0a;
+}
+
 * {
   font-family:
     'Libre Baskerville', serif
@@ -35,7 +40,7 @@ body {
   width: 100%;
   height: 200px;
   margin: 0px;
-  background: #00669f;
+ background-color: var(--primary_color);
   box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
   margin-bottom: 50px;
   display: flex;
@@ -60,13 +65,13 @@ body {
   font-size: 80px;
   margin-bottom: 70px;
   margin-top: 70px;
-  background-color: #00669f;
+  background-color: var(--primary_color);
   color: #f1f1f1;
   padding: 10px;
 }
 
 #global {
-  height: 720px;
+  height: 100%;
   width: 100%;
   border: 1px solid #ddd;
   background: #f1f1f1;
@@ -88,9 +93,16 @@ body {
   flex-direction: row;
 }
 
-.ul-gift li {
-  width: 100%;
-  height: 100%;
+.ul-gift li img{
+  width: auto;
+  height: 500px;
+  background-color: #cc0a0a;
+}
+
+.ul-gift li p{
+  background-color: var(--primary_color);
+  text-align: center;
+  color: #f1f1f1;
 }
 
 .img-heroe-all {
@@ -123,6 +135,9 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  background-color: var(--second_color);
+  color: #f1f1f1;
+padding: 80px 0px;
 }
 
 .img-fond {
@@ -170,16 +185,61 @@ h3 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-
   width: 100%;
-  height: 200px;
+  height: 450px;
   left: 0px;
   top: 3427px;
-  background: #00669f;
+  background-color: var(--primary_color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .text-footer {
   text-align: center;
   color: white;
+}
+
+.slider {
+  display: flex;
+  flex-direction: row;
+  background: #f1f1f1;
+  overflow-y: scroll;
+  overflow: hidden;
+  background-color: var(--primary_color);
+  margin-bottom: 50px;
+}
+
+.img-banners-marvel {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 310px;
+  height: auto;
+  margin: 30px;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.arrow {
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  background-color: #f4f7f8;
+  border-radius: 50%;
+  padding: 10px;
+  box-sizing: content-box;
+}
+
+.prev {
+  position: absolute;
+  z-index: 1;
+  left: 25px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.next {
+  position: absolute;
+  right: 25px;
+  top: 45%;
+  transform: translate(50%, 50%);
 }

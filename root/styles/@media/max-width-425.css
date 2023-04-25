@@ -1,7 +1,5 @@
 @media (max-width: 425px) {
-
-
-
+    
     .button-heroe {
         display: flex;
         flex-direction: row;
@@ -69,4 +67,12 @@
         margin-bottom: 0%;
     }
 
+    .section5{
+        flex-direction: column !important;
+    }
+
+    #Copyright {
+        padding-top: 50px;
+        justify-content: center;
+    }
 }
