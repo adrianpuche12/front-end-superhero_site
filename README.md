@@ -42,15 +42,11 @@ Las siguientes imagenes le ayudaran a ves las principales vistas del proyecto.
 
 
 ### Vista Mobile Dimensions Responseve 425x842
-![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responseve-425x842.png)
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-425x842-(3).png)
 
 
 ### Vista Mobile Dimensions Responseve 425x842
 ![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive%20425x842.png)
-
-
-### Vista Mobile Dimensions Responseve 425x842
-![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-425x842-(3).png)
 
 
 ### Vista Mobile Dimensions Responsive 768x842
