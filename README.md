@@ -38,11 +38,11 @@ $ Desde la Home podra navebar a traves de las diferentes la paginas del sitio
 Las siguientes imagenes le ayudaran a ves las principales vistas del proyecto.
 
 ### Home
-![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/home.png)
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions%20Responsive%20425x842%20(3).png)
 
 
-### Pagina Superheroe
-![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/m-m.png)
+### Dimensions Responsive 425x842
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions%20Responseve%20425x842%20.png)
 
 
 ### Pagina Superheroe
