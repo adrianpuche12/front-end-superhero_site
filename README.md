@@ -42,7 +42,7 @@ Las siguientes imagenes le ayudaran a ves las principales vistas del proyecto.
 
 
 ### Dimensions Responsive 425x842
-![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-1024(2).png)
+![imagen del sitio](https://github.com/adrianpuche12/front-end-01/blob/master/root/images-readme/Dimensions-Responsive-1024-(2).png)
 
 
 ### Pagina Superheroe
